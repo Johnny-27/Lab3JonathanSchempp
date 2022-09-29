@@ -1,8 +1,8 @@
-# Lab3JonathanSchempp
-Create a GitHub Repo called Lab3FirstNameLastName.
-Make sure you add a Readme when you create the repo. Add these Instructions to the Readme.(Copy and past them into the Readme).
-Clone the remote repo to your computer.( I suggest that you clone it into a folder on your computer called "Lab3")
-In Program.cs write a comment that says While loop
+# Lab3JonathanSchempp 
+---Create a GitHub Repo called Lab3FirstNameLastName.
+---Make sure you add a Readme when you create the repo. Add these Instructions to the Readme.(Copy and past them into the Readme).
+---Clone the remote repo to your computer.( I suggest that you clone it into a folder on your computer called "Lab3")
+---In Program.cs write a comment that says While loop
 Using a while loop create  a loop that asks the user for a number between 10 and 99.
 If the number given is evenly divisible by 23  show the user a green screen.
 If the number is not evenly divisible by 23  show a red screen
